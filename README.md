@@ -19,10 +19,15 @@ Feeling proud of the insights generated and the learning experience! Looking for
 ---
 
 **Explore the Project:
-[Power BI Report Link] 
+
+[Power BI Report Link]
+
+
 (https://app.powerbi.com/view?r=eyJrIjoiZWNjYzc2ZGYtMWM5MC00MTJjLTlkOWMtNDJmNzM5YjcwN2NmIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&pageName=0d4ac941f39d410ca821)**
 
-**[PPT Link] ()**
+**[PPT Link] 
+
+(https://github.com/Sneha-Srinath/Electric-vehicle-analysis/blob/main/EV%20presentation.pdf)**
 
 **Tags:** `Data Science` `Power BI` `Resume Project` `EV Market` `Atliq Motors` `Learning Journey`
 
